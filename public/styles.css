@@ -1,0 +1,5 @@
+/* Add your styles here */
+#map {
+  width: 100%;
+  height: 500px; /* Ensure this is enough to display the map */
+}
